@@ -1,0 +1,38 @@
+/* index.css */
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+body {
+  font-family: 'Mulish', sans-serif;
+  background-color: #FFFFFF; /* White */
+  color: #5ACCCC; /* Original Turquoise */
+}
+
+#logo {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  width: 80px; /* Adjust size as needed */
+  height: 50px;
+}
+
+#read-with-ello {
+  position: absolute;
+  top: 10px;
+  right: 10px; /* Ensure it stays at the right end */
+  font-weight: bold;
+}
+
+#read-with-ello a {
+  text-decoration: none; /* Remove underline */
+  transition: color 0.3s ease; /* Smooth transition for color change */
+}
+
+#read-with-ello a:hover {
+  color: #89CFF0; /* Lighter Turquoise on hover */
+}
+
+#all-books {
+  text-align: center;
+  color: teal;
+  font-weight: bold;
+}
