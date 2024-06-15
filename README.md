@@ -19,11 +19,11 @@ This project is part of the Ello Engineering Challenge, designed to showcase the
 
 ## Installation
 
-1. **Clone the Repository:**
+A. **Clone the Repository:**
    ```bash
    git clone https://github.com/BabG254/Ello-Teacher-A-.git
    
-2. How to Run- Really simple, just follow please.
+B. How to Run- Really simple, just follow please.
 You don't even need to run installations, I have embedded them there. Great right!?
 Here are the steps:
 1.  After cloning the repository.
