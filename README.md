@@ -26,13 +26,13 @@ This project is part of the Ello Engineering Challenge, designed to showcase the
 2. How to Run- Really simple, just follow please.
 You don't even need to run installations, I have embedded them there. Great right!?
 Here are the steps:
-   1.  After cloning the repository.
+1.  After cloning the repository.
 2.  Navigate to the backend directory i.e. 'cd backend'
-    3.  Run 'npm start' on the terminal. It will give you this as output : http://localhost:4000/. Navigate to it on your browser, then press play on the books to load them.
+3.  Run 'npm start' on the terminal. It will give you this as output : http://localhost:4000/. Navigate to it on your browser, then press play on the books to load them.
    
    After all the above, just on the cloned project;
-   4. Open a different terminal and navigate to the frontend directory i.e. 'cd frontend'
-   5. Run 'npm start' on the terminal. Give it some time, it will load then this will be the output : http://localhost:3000/. It will open it for you but you can also navigate to it on your browser and see the frontend webview.
+4. Open a different terminal and navigate to the frontend directory i.e. 'cd frontend'
+5. Run 'npm start' on the terminal. Give it some time, it will load then this will be the output : http://localhost:3000/. It will open it for you but you can also navigate to it on your browser and see the frontend webview.
 
 
  As simple as that, so excited. ENJOY!
