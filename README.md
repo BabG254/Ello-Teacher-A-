@@ -23,7 +23,7 @@ A. **Clone the Repository:**
    ```bash
    git clone https://github.com/BabG254/Ello-Teacher-A-.git
    
-B. How to Run- Really simple, just follow please.
+B. HOW TO RUN- Really simple, just follow please.
 You don't even need to run installations, I have embedded them there. Great right!?
 Here are the steps:
 1.  After cloning the repository.
